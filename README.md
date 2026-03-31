@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Eshita 👋</h1>
 
-<!--
-**evie1-glitch/evie1-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 <b>Branch:</b> Artificial intelligence and machine learning &nbsp; 
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me  
+<p align="center">
+I have a strong interest in <b>mathematics and problem-solving</b>, and I aspire to build a career in <b>fintech</b>, where I can combine technology and finance to create impactful solutions.
+</p>
+
+---
+
+### 🚀 What I Want to Learn  
+<p align="center">
+I aim to develop skills in <b>programming, data analysis, and financial technologies</b> to understand how modern financial systems work and innovate within them.
+</p>
+
+---
+
+<p align="center">
+  ✨ <i>Driven by logic, inspired by innovation</i> ✨
+</p>
