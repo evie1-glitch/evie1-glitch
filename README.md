@@ -8,7 +8,7 @@
 
 ### 💡 About Me  
 <p align="center">
-I enjoy working with mathematics and solving problems—it’s something that genuinely interests me. I’m also curious about fintech, where I can combine technology and finance to create meaningful, real-world solutions.
+I enjoy working with mathematics and solving problems,it’s something that genuinely interests me. I’m also curious about fintech, where I can combine technology and finance to create meaningful, real-world solutions.
 </p>
 
 ---
